@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382090404480",
+    "firebase_url": "https://nft-wallet-eefc1-default-rtdb.firebaseio.com",
+    "project_id": "nft-wallet-eefc1",
+    "storage_bucket": "nft-wallet-eefc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382090404480:android:d3acedfb825a982430bc65",
+        "android_client_info": {
+          "package_name": "com.example.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382090404480-7bslf35o8433fjj4r85dpsrvcuhfd20m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxFa5asJuBzsx89ZkvhYMCfdcXJkl1mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382090404480-7bslf35o8433fjj4r85dpsrvcuhfd20m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382090404480-b94nv9r5cif11d57mlj7d636pi47fs41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
